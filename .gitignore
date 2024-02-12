@@ -1,5 +1,7 @@
 # ignored folders
 /data
+/vids
+
 experiments
 results
 tb_logger
